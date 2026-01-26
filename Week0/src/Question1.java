@@ -7,10 +7,10 @@ public class Question1 {
         System.out.println("Hello please enter your first initial");
         String initial = scanner.nextLine();
 
-        System.out.println("Hello please enter your last name");
+        System.out.println("Please enter your last name");
         String lastName = scanner.nextLine();
 
-        System.out.println("Hello please enter your job role");
+        System.out.println("Please enter your job role");
         String jobRole = scanner.nextLine();
         
 
