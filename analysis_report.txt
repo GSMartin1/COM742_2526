@@ -1,0 +1,4 @@
+ANALYSIS REPORT
+Total Significant Words: 60559
+Unique Vocabulary Size: 8304
+Most Frequent Word: 'upon' (used 464 times)
